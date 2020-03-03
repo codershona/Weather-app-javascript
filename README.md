@@ -6,5 +6,6 @@
      - npm init  (this will create package.json file);
      - npm i axios express (this will create package-lock.json file);
      - npm i --save-dev dotenv nodemon ;
+     - npm run devStart ; (then go to localhost:3000);
      - 
 ```
